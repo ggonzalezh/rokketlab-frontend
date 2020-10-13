@@ -3,7 +3,7 @@
 **Evaluación técnica Frontend - RokketLab**
 
 # Aplicacion
-* [Página Web]() - Hosteada en Firebase.
+* [Página Web](https://rokketlab-frontend.web.app/) - Hosteada en Firebase.
 
 # Índice
 
@@ -24,12 +24,12 @@
 
 # Configuración
 
-Para el correcto funcionamiento de la aplicación WEB, es necesario configurar el endpoint del []() a consumir en el archivo `Config.json`.
+Para el correcto funcionamiento de la aplicación WEB, es necesario configurar el endpoint del [rokketlab-backend](https://github.com/ggonzalezh/rokketlab-backend) a consumir en el archivo `Config.json`.
 
 # Como utilizar
 ~ `git clone `
 
-~ `cd `
+~ `cd rokketlab-backend`
 
 ~ `yarn install o npm install`
 
